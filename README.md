@@ -1,11 +1,8 @@
 # Adriana Silva
 
 
-<p align="center"><img width="80%" alt="Oie! Bem vindo ao meu perfil"/></p>
+<p align="center"><width="80%" alt="Oie! Bem vindo ao meu perfil"/></p>
 
-<br />
-
-##
 **Sobre Mim**
 
 - 👨🏻‍🎓 Estudante
